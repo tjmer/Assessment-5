@@ -1,0 +1,9 @@
+button {
+    color: rebeccapurple;
+    background-color: yellowgreen;
+}
+
+button:hover {
+    color: wheat;
+    background-color: black;
+}
